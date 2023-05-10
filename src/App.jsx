@@ -8,13 +8,13 @@ function App() {
       <div className='grid max-w-5xl md:grid-cols-2 mx-8 md:mx-auto py-7 md:p-10 '>
         {/* header area */}
         <div className='bg-white grid md:col-span-2 p-6 pt-7 pb-8 md:p-10 md:pb-10 rounded-t-md '>
-          <h1 className='text-primary-cyan text-[20px] font-bold tracking-tight mb-6 '>
+          <h1 className='text-primary-cyan text-[20px] md:text-xl font-bold tracking-tight mb-6 '>
             Join our community
           </h1>
-          <h3 className='mb-4 text-primary-yellow  leading-5 font-bold tracking-tight '>
+          <h3 className='mb-4 text-primary-yellow md:text-lg  leading-5 font-bold tracking-tight '>
             30-day, hassle-free money back guarantee
           </h3>
-          <h5 className='text-neutral-blue text-sm leading-7'>
+          <h5 className='text-neutral-blue text-sm md:text-base leading-7'>
             Gain access to our full library of tutorials along with expert code
             reviews. <br /> Perfect for any developers who are serious about
             honing their skills.
