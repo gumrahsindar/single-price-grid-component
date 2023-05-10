@@ -41,17 +41,15 @@ function App() {
           <h2 className='text-lg font-bold text-white tracking-tight'>
             Why Us
           </h2>
-          <h3 className='text-white text-sm opacity-75 mt-[18px]'>
-            <ul className='leading-[21px]'>
-              <li>Tutorials by industry experts</li>
-              <li>Peer & expert code review</li>
-              <li>Coding exercises</li>
-              <li>Access to our GitHub repos</li>
-              <li>Community forum</li>
-              <li>Flashcard decks</li>
-              <li>New videos every week</li>
-            </ul>
-          </h3>
+          <ul className='text-white text-sm opacity-75 mt-[18px] leading-[21px]'>
+            <li>Tutorials by industry experts</li>
+            <li>Peer & expert code review</li>
+            <li>Coding exercises</li>
+            <li>Access to our GitHub repos</li>
+            <li>Community forum</li>
+            <li>Flashcard decks</li>
+            <li>New videos every week</li>
+          </ul>
         </div>
       </div>
     </div>
